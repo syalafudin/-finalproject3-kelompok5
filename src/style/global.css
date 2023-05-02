@@ -1,0 +1,506 @@
+@import url("https//fonts.googleapis.com/css?family=Basic:400|Work+Sans:700");
+
+*,
+html,
+body {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.website {
+    align-items: flex-start;
+    background-color: var(--white);
+    border: 1px none;
+    display: flex;
+    flex-direction: column;
+    height: 4556px;
+    overflow: hidden;
+    width: 1440px;
+}
+
+
+.overlap-group5 {
+    height: 684px;
+    position: relative;
+    width: 1440px;
+}
+
+.rectangle {
+    position: absolute;
+    width: 1440px;
+    height: 80px;
+    left: 0px;
+    top: 0px;
+    background: #FFFFFF;
+    box-shadow: 0px 2px 10px rgba(0, 0, 0, 0.1);
+}
+
+.rectangle-1 {
+    position: absolute;
+    width: 100px;
+    height: 120px;
+    left: 135px;
+    top: 0px;
+    background: #020E35;
+}
+
+.rectangle-copy {
+    position: absolute;
+    width: 100px;
+    height: 6px;
+    left: 135px;
+    top: 114px;
+    background: linear-gradient(270deg, #8C32F0 0%, #E73587 100%);
+}
+
+.rectangle-2 {
+    position: absolute;
+    width: 107px;
+    height: 40px;
+    left: 1198px;
+    top: 20px;
+    border: none;
+    background: linear-gradient(270deg, #8C32F0 0%, #E73587 100%);
+
+}
+
+.combined-shape {
+    position: absolute;
+    width: 45px;
+    height: 48px;
+    left: 163px;
+    top: 27px;
+
+}
+
+.place {
+    position: absolute;
+    width: 33px;
+    height: 15px;
+    left: 776px;
+    top: 32px;
+    font-family: 'Basic';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 15px;
+    /* identical to box height */
+    letter-spacing: 0.8px;
+    color: #000000;
+}
+
+.about {
+    position: absolute;
+    width: 38px;
+    height: 15px;
+    left: 866px;
+    top: 32px;
+    font-family: 'Basic';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 15px;
+    /* identical to box height */
+    letter-spacing: 0.8px;
+    color: #000000;
+}
+
+.services {
+    position: absolute;
+    width: 53px;
+    height: 15px;
+    left: 962px;
+    top: 32px;
+    font-family: 'Basic';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 15px;
+    /* identical to box height */
+    letter-spacing: 0.8px;
+    color: #000000;
+}
+
+.portofolio {
+    position: absolute;
+    width: 63px;
+    height: 15px;
+    left: 1073px;
+    top: 32px;
+    font-family: 'Basic';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 15px;
+    /* identical to box height */
+
+    letter-spacing: 0.8px;
+
+    color: #000000;
+}
+
+.contact-us {
+    font-family: 'Basic';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 10px;
+    line-height: 15px;
+    /* identical to box height */
+    color: #FFFFFF;
+}
+
+.group {
+    position: absolute;
+    width: 739.5px;
+    height: 565.92px;
+    left: 700px;
+    top: 118px;
+
+}
+
+.we-create-content-th {
+    position: absolute;
+    width: 531px;
+    height: 366px;
+    left: 129px;
+    top: 187px;
+    font-family: 'Basic';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 97px;
+    line-height: 122px;
+
+    color: #020E35;
+
+}
+
+.rectangle-copy-2 {
+    position: absolute;
+    width: 140px;
+    height: 40px;
+    left: 135px;
+    top: 591px;
+    background: linear-gradient(270deg, #8C32F0 0%, #E73587 100%);
+    border: none;
+}
+
+.see-our-work {
+    font-family: 'Basic';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 10px;
+    line-height: 15px;
+    /* identical to box height */
+
+
+    color: #FFFFFF;
+
+}
+
+.oval {
+    position: absolute;
+    width: 276px;
+    height: 276px;
+    left: -141px;
+    top: 722px;
+    background: rgba(240, 243, 250, 1);
+    border-radius: 1000px;
+}
+
+.about-us-h1 {
+    position: absolute;
+    width: 155px;
+    height: 50px;
+    left: 644px;
+    top: 785px;
+
+    font-family: 'Basic';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 40px;
+    line-height: 50px;
+    text-align: center;
+
+    color: #020E35;
+}
+
+.line {
+    position: absolute;
+    width: 100px;
+    height: 1px;
+    left: 670px;
+    top: 835px;
+
+    border: 2px solid #E73587;
+}
+
+.about-content {
+    position: absolute;
+    width: 823px;
+    height: 75px;
+    left: 308px;
+    top: 860px;
+
+    font-family: 'Basic';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 25px;
+    text-align: center;
+
+    color: #2B2B2B;
+}
+
+.Our-Valuable {
+    position: absolute;
+    width: 365px;
+    height: 50px;
+    left: 538px;
+    top: 1057px;
+
+    font-family: 'Basic';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 40px;
+    line-height: 50px;
+    text-align: center;
+
+    color: #020E35;
+}
+
+.line-Our-Valuable {
+    position: absolute;
+    width: 100px;
+    height: 1px;
+    left: 670px;
+    top: 1107px;
+    border: 2px solid #E73587;
+}
+
+.card1 {
+    position: absolute;
+    width: 377px;
+    height: 583px;
+    left: 135px;
+    top: 1157px;
+
+    background: #FDF8E3;
+}
+
+.poto-card1 {
+    position: absolute;
+    width: 319px;
+    height: 284px;
+    left: 164px;
+    top: 1174px;
+}
+
+.title-card1 {
+    position: absolute;
+    width: 337px;
+    height: 25px;
+    left: 155px;
+    top: 1463px;
+
+    font-family: 'Basic';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 25px;
+    text-align: center;
+
+    color: #2B2B2B;
+
+}
+
+.content-card1 {
+    position: absolute;
+    width: 337px;
+    height: 100px;
+    left: 155px;
+    top: 1510px;
+
+    font-family: 'Basic';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 25px;
+    text-align: center;
+
+    color: #2B2B2B;
+}
+
+.button-card1 {
+    position: absolute;
+    width: 140px;
+    height: 40px;
+    left: 253px;
+    top: 1669px;
+    background: linear-gradient(270deg, #8C32F0 0%, #E73587 100%);
+    border: none;
+}
+
+.button-card1-1 {
+    height: 15px;
+    font-family: 'Basic';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 15px;
+    /* identical to box height */
+
+    text-align: center;
+
+    color: #FFFFFF;
+
+}
+
+.card2 {
+    position: absolute;
+    width: 377px;
+    height: 583px;
+    left: 532px;
+    top: 1157px;
+
+    background: #F0F3FA;
+}
+
+.poto-card2 {
+    position: absolute;
+    width: 274px;
+    height: 238px;
+    left: 583px;
+    top: 1188px;
+}
+
+.title-card2 {
+    position: absolute;
+    width: 337px;
+    height: 25px;
+    left: 552px;
+    top: 1463px;
+
+    font-family: 'Basic';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 25px;
+    text-align: center;
+
+    color: #2B2B2B;
+}
+
+.content-card2 {
+    position: absolute;
+    width: 337px;
+    height: 100px;
+    left: 553px;
+    top: 1510px;
+
+    font-family: 'Basic';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 25px;
+    text-align: center;
+
+    color: #2B2B2B;
+}
+
+.button-card2 {
+    position: absolute;
+    width: 140px;
+    height: 40px;
+    left: 650px;
+    top: 1669px;
+    border: none;
+
+    background: linear-gradient(270deg, #8C32F0 0%, #E73587 100%);
+}
+
+.button-card2-2 {
+    font-family: 'Basic';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 15px;
+    /* identical to box height */
+    text-align: center;
+    color: #FFFFFF;
+}
+
+.card3 {
+    position: absolute;
+    width: 377px;
+    height: 583px;
+    left: 929px;
+    top: 1157px;
+
+    background: #FEEFF0;
+}
+
+.poto-card3 {
+    position: absolute;
+    width: 300px;
+    height: 255px;
+    left: 967px;
+    top: 1188px;
+}
+
+.title-card3 {
+    position: absolute;
+    width: 337px;
+    height: 25px;
+    left: 949px;
+    top: 1463px;
+
+    font-family: 'Basic';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 25px;
+    text-align: center;
+
+    color: #2B2B2B;
+}
+
+.content-card3 {
+    position: absolute;
+    width: 337px;
+    height: 100px;
+    left: 949px;
+    top: 1510px;
+
+    font-family: 'Basic';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 25px;
+    text-align: center;
+
+    color: #2B2B2B;
+}
+
+.button-card3 {
+    position: absolute;
+    width: 140px;
+    height: 40px;
+    left: 1047px;
+    top: 1669px;
+    border: none;
+    background: linear-gradient(270deg, #8C32F0 0%, #E73587 100%);
+}
+
+.button-card3-3 {
+    font-family: 'Basic';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 15px;
+    /* identical to box height */
+
+    text-align: center;
+
+    color: #FFFFFF;
+}
