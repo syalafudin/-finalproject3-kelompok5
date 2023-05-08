@@ -17,7 +17,7 @@ body {
     flex-direction: column;
     height: 1745px;
     overflow: hidden;
-    width: 1300px;
+    width: 1400px;
 }
 
 
@@ -524,6 +524,7 @@ p {
 .container {
     padding: 64px;
     background: #020E35;
+    width: 105%;
 }
 
 .row:after {
@@ -561,7 +562,7 @@ p {
     cursor: pointer;
     position: relative;
     left: 45%;
-    background:linear-gradient(270deg, #8C32F0 0%, #E73587 100%);
+    background: linear-gradient(270deg, #8C32F0 0%, #E73587 100%);
 
 }
 
@@ -586,56 +587,68 @@ img {
 }
 
 /* SECTION D */
-.container2{
+.container2 {
     margin-left: 50px;
     margin-right: 50px;
     margin-top: 50px;
     margin-bottom: 50px;
 }
-.showcase{
+
+.showcase {
     margin: 30px;
 }
-.flexible{
+
+.flexible {
     display: flex;
 }
-.noflex{
+
+.noflex {
     display: block;
 }
-.spekta1{
+
+.spekta1 {
     margin-left: 70px;
     margin-right: 50px;
     padding-left: 50px;
 }
-.spekta2{
+
+.spekta2 {
     margin-right: 50px;
 }
-.spekta3{
+
+.spekta3 {
     margin-left: 150px;
 }
-.elimination1{
+
+.elimination1 {
     font-family: Trebuchet MS;
     color: black;
     font-size: 30px;
 }
-.elimination2{
+
+.elimination2 {
     font-family: Trebuchet MS;
     color: black;
     font-size: 80px;
     font-weight: bold;
 }
-.elimination3{
+
+.elimination3 {
     font-family: Trebuchet MS;
     color: black;
     font-size: 20px;
 }
-.elimination4{
+
+.elimination4 {
     font-family: Trebuchet MS;
     color: white;
     font-size: 15px;
 }
-.divInput{
+
+.divInput {
     margin-bottom: 15px;
 }
+
 input[type=text] {
     width: 400px;
     padding: 12px 20px;
@@ -645,7 +658,8 @@ input[type=text] {
     border-radius: 4px;
     box-sizing: border-box;
 }
-textarea{
+
+textarea {
     width: 400px;
     height: 150px;
     padding: 12px 20px;
@@ -653,10 +667,42 @@ textarea{
     border-radius: 4px;
     margin: 12px 0;
 }
-.showcase2{
+
+.showcase2 {
     background-color: #020E35;
     padding-top: 15px;
     padding-bottom: 15px;
+    width: 105%;
 }
 
 
+/* Oval */
+
+.button1 {
+    position: absolute;
+    width: 76px;
+    height: 76px;
+    left: 1291px;
+    top: 1411px;
+    background: linear-gradient(270deg, #8C32F0 0%, #E73587 100%);
+    border: 2px solid #f5eaea;
+    border-radius: 50%;
+    border: 2px solid #FFFFFF;
+}
+
+/* Path 2 */
+.button-img1 {
+    position: absolute;
+    width: 30px;
+    height: 34px;
+    left: 28px;
+    top: 18px;
+    border: 0px solid #f7f4f4;
+}
+.showcase22{
+    background-color: #020E35;
+    padding-top: 255px;
+    padding-bottom: 40px;
+    margin-top: 785px;
+    width: 1400px;
+}
